@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "Video Stream Template",
-  "license": "",
+  "license": "ARTTTT-TTTTT",
   "scripts": {
     "format:client": "pnpm --filter client format",
     "format:server": "cd server && poetry run black .",
