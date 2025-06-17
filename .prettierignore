@@ -1,0 +1,7 @@
+node_modules
+build
+client/build
+server/__pycache__
+*.log
+.venv
+.next

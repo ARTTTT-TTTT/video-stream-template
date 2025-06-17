@@ -1,0 +1,8 @@
+.DS_Store
+
+node_modules
+pnpm-lock.yaml
+
+.env
+livekit.yaml
+turnserver.conf
