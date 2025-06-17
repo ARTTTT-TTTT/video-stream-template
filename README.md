@@ -1,6 +1,6 @@
 # Video Stream Template
 
-[![Status: Base](https://img.shields.io/badge/Status-Development-yellow)](https://your-badge-url)
+[![Status: Stable](https://img.shields.io/badge/Status-Stable-yellow)](https://your-badge-url)
 
 ## ✨ Root Workspace ✨
 
