@@ -1,6 +1,11 @@
-# Video Stream Template
+# 📹 Video Stream Template
 
-[![Status: Stable](https://img.shields.io/badge/Status-Stable-yellow)](https://your-badge-url)
+[![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen)](https://your-badge-url)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+> A template project for building video streaming applications.
+
+---
 
 ## ✨ Root Workspace ✨
 
@@ -26,6 +31,8 @@ docker compose up -d
 docker system prune -af
 ```
 
+---
+
 ## Tech Stack 🚀
 
 | Technology | Icon                                                                                                              |
@@ -36,6 +43,8 @@ docker system prune -af
 | FastAPI    | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)          |
 | LiveKit    | ![LiveKit](https://img.shields.io/badge/LiveKit-000000?style=for-the-badge&logo=livekit&logoColor=white)          |
 | Coturn     | ![Coturn](https://img.shields.io/badge/Coturn-4676C8?style=for-the-badge&logo=coturn&logoColor=white)             |
+
+---
 
 ## 📚 Pre-Commit 📚
 
