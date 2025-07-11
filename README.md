@@ -1,7 +1,6 @@
 # 📹 Video Stream Template
 
 [![Status: Stable](https://img.shields.io/badge/Status-Stable-brightgreen)](https://your-badge-url)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 > A template project for building video streaming applications.
 
